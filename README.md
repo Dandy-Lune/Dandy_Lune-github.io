@@ -1,9 +1,8 @@
-# Dandy_Lune-github.io
 <!DOCTYPE html>
   <html lang="en">
         <head>
           <meta charset="UTF-8"/>
-          <title>Gustavo Mendez Luna Portfolio</title>
+          <title>Jose Gustavo Mendez Luna Portfolio</title>
         </head>
           <body>
             <main>
