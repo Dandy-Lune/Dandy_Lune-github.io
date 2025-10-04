@@ -4,6 +4,12 @@
           <meta charset="UTF-8"/>
           <title>Jose Gustavo Mendez Luna Portfolio</title>
         </head>
+          <header>
+            <nav>
+              Home
+              About 
+              Contact
+            </nav>
           <body>
             <main>
             <h1> Jose Gustavo Mendez Luna </h1>
